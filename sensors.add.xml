@@ -1,0 +1,11 @@
+<additional>
+    <!-- Induction loop detectors placed on selected lanes in the grid -->
+    <inductionLoop id="det_1" lane="B3A3_0" pos="50" freq="60" file="detector_output.xml"/>
+    <inductionLoop id="det_2" lane="A3A2_0" pos="50" freq="60" file="detector_output.xml"/>
+    <inductionLoop id="det_3" lane="B2B3_0" pos="50" freq="60" file="detector_output.xml"/>
+    <inductionLoop id="det_4" lane="C3C2_0" pos="50" freq="60" file="detector_output.xml"/>
+    <inductionLoop id="det_5" lane="A2A1_0" pos="50" freq="60" file="detector_output.xml"/>
+    <inductionLoop id="det_6" lane="B1B2_0" pos="50" freq="60" file="detector_output.xml"/>
+    <inductionLoop id="det_7" lane="C1C2_0" pos="50" freq="60" file="detector_output.xml"/>
+    <inductionLoop id="det_8" lane="B3B2_0" pos="50" freq="60" file="detector_output.xml"/>
+</additional>

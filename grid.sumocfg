@@ -1,0 +1,15 @@
+<configuration>
+  <input>
+    <net-file value="grid.net.xml"/>
+    <route-files value="routes.rou.xml"/>
+    <additional-files value="sensors.add.xml"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="3600"/>
+  </time>
+  <output>
+    <summary value="output_summary.xml"/>
+</output>
+
+</configuration>
