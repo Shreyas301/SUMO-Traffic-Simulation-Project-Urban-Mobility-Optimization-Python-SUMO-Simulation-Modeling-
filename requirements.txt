@@ -1,0 +1,26 @@
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# SUMO & Traffic Simulation
+traci>=1.19.0
+sumolib>=1.19.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Visualization (Local / Debugging)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# AWS Cloud Integration
+boto3>=1.26.0
+botocore>=1.29.0
+
+# XML & Data Parsing
+lxml>=4.9.0
+
+# Utility
+python-dateutil>=2.8.2
+requests>=2.31.0
